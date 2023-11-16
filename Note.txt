@@ -1,0 +1,4 @@
+https://refactoring.guru/design-patterns/abstract-factory/csharp/example#example-0
+
+Abstract Class vs Interface
+

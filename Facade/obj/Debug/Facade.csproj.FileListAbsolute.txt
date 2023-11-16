@@ -3,3 +3,11 @@ D:\Duyen\Study\DesignPattern\Facade\bin\Debug\Facade.exe
 D:\Duyen\Study\DesignPattern\Facade\bin\Debug\Facade.pdb
 D:\Duyen\Study\DesignPattern\Facade\obj\Debug\Facade.exe
 D:\Duyen\Study\DesignPattern\Facade\obj\Debug\Facade.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\bin\Debug\Facade.exe.config
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\bin\Debug\Facade.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\bin\Debug\Facade.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\obj\Debug\Facade.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Facade\obj\Debug\Facade.pdb

@@ -6,3 +6,6 @@ D:\Duyen\Study\DesignPattern\Prototype\obj\Debug\Prototype.exe
 D:\Duyen\Study\DesignPattern\Prototype\obj\Debug\Prototype.pdb
 D:\Duyen\Study\DesignPattern\Prototype\bin\Debug\Dapper.dll
 D:\Duyen\Study\DesignPattern\Prototype\bin\Debug\Dapper.xml
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache

@@ -4,3 +4,11 @@ D:\Duyen\Study\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
 D:\Duyen\Study\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
 D:\Duyen\Study\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
 D:\Duyen\Study\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\obj\Debug\FactoryPattern.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\FactoryPattern\obj\Debug\FactoryPattern.pdb

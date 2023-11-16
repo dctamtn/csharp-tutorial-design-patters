@@ -4,3 +4,11 @@ D:\Duyen\Study\DesignPattern\Singleton\bin\Debug\Singleton.pdb
 D:\Duyen\Study\DesignPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 D:\Duyen\Study\DesignPattern\Singleton\obj\Debug\Singleton.exe
 D:\Duyen\Study\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\bin\Debug\Singleton.exe.config
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\bin\Debug\Singleton.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\bin\Debug\Singleton.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\obj\Debug\Singleton.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Singleton\obj\Debug\Singleton.pdb

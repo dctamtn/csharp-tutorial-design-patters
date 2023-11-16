@@ -4,3 +4,11 @@ D:\Duyen\Study\DesignPattern\Bridge\bin\Debug\Bridge.pdb
 D:\Duyen\Study\DesignPattern\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
 D:\Duyen\Study\DesignPattern\Bridge\obj\Debug\Bridge.exe
 D:\Duyen\Study\DesignPattern\Bridge\obj\Debug\Bridge.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\bin\Debug\Bridge.exe.config
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\bin\Debug\Bridge.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\bin\Debug\Bridge.pdb
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\obj\Debug\Bridge.exe
+D:\WorkSpace\C# Samples\csharp-tutorial-design-patters\Bridge\obj\Debug\Bridge.pdb

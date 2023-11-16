@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AbstractFactoryPattern
 {
@@ -28,4 +24,34 @@ namespace AbstractFactoryPattern
             return null;
         }
     }
+
+    public interface Color
+    {
+        void fill();
+    }
+
+    public class Blue : Color
+    {
+        public void fill()
+        {
+            Console.WriteLine("Inside Blue:fill() method");
+        }
+    }
+
+    public class Green : Color
+    {
+        public void fill()
+        {
+            Console.WriteLine("Inside Green:fill() method");
+        }
+    }
+
+    public class Red : Color
+    {
+        public void fill()
+        {
+            Console.WriteLine("Inside Red:fill() method");
+        }
+    }
+
 }

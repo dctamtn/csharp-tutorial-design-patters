@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AbstractFactoryPattern
 {
+
     public class ShapeFactory:AbstractFactory
     {
         public override Shape getShape(string shapeType)
@@ -23,9 +20,38 @@ namespace AbstractFactoryPattern
             }
             return null;
         }
+
         public override Color getColor(string color)
         {
             return null;
+        }
+    }
+
+    public interface Shape
+    {
+        void draw();
+    }
+
+    public class Square : Shape
+    {
+        public void draw()
+        {
+            Console.WriteLine("Draw square");
+        }
+    }
+    public class Rectangle : Shape
+    {
+        public void draw()
+        {
+            Console.WriteLine("Draw rectangle");
+        }
+    }
+
+    public class Circle : Shape
+    {
+        public void draw()
+        {
+            Console.WriteLine("Draw circle");
         }
     }
 }
